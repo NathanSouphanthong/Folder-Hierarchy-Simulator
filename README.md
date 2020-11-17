@@ -1,5 +1,4 @@
 # Folder-System
-Grade 12 Data Structures Assignment
 
 Mock folder system created using Java with fully functioning GUI  
 
